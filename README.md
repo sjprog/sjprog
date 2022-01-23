@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Sidney Siqueira.
 
 - 🔭 Hoje estou estudando para ser um Programador Full Stack
-- 🌱 Estudando back-end
-- 😄 Pronomes: ele/dele
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sidneysiqueira/">
@@ -30,6 +30,4 @@
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
   
-  ![Snake animation](https://github.com/sjprog/sjprog/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
