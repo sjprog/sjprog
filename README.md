@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Sidney Siqueira.
 
-- 🔭 Hoje estou estudando para ser um Programador Full Stack
+- Programador Full Stack
 
 
 
